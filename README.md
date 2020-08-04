@@ -11,4 +11,4 @@ Estudo individualmente programação quase 100% do meu tempo :smile:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games single-player, LoL, metal progressivo e filmes :relieved:
  <br/> :email: &nbsp; Entre em contato comigo: [Linkedin](https://www.linkedin.com/in/victor-lacerda-8b6354155/)
 | 
-[gmail](v.l.mendes18@gmail.com)
+Gmail: # v.l.mendes18@gmail.com
