@@ -4,7 +4,7 @@
 Sou um principiante apaixonado em back-end develop.
 Estudo individualmente programação quase 100% do meu tempo :smile:
 
- :rocket:  &nbsp; Estou trabalhando na **Dominio Informatica**
+ :rocket:  &nbsp; Estou trabalhando na **Dominio Informatica** como Analista de Suporte
  <br/> :purple_heart: &nbsp; Buscando aprender Git, github, quase tudo envolvendo .NET e muito mais :sunglasses:
  <br/> :blush: &nbsp; Posso te ajudar no que sei enquanto você me ajuda no que eu não sei :grin:
  <br/> :computer: &nbsp; Estou no processo de dominar .NET MAUI e animado pra também começar Machine Learning :purple_heart:
